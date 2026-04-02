@@ -87,7 +87,11 @@ Excel / CSV Dataset – Data source
 
 Dashboard Preview
 
+![Patient Demographics](https://github.com/Khushi-13/National-Healthcare-Dashboard/blob/main/Patient%20Demographics.png)
 
+![Key Trends](https://github.com/Khushi-13/National-Healthcare-Dashboard/blob/main/key%20trends.png)
+
+![Treatment & Cost](https://github.com/Khushi-13/National-Healthcare-Dashboard/blob/main/Treatment%20%26%20cost.png)
 
 
 💡 Business Impact
